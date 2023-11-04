@@ -12,6 +12,7 @@ let humscore = 0;
 let compscore = 0;
 let p = document.createElement('h3');
 let f = document.createElement('h2');
+f.style.textAlign = 'center';
 p.style.textAlign = 'center'
 p.style.margin ='30px'
 
